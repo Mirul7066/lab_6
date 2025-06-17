@@ -5,8 +5,8 @@
 </head>
 <body>
   <?php
-    $name = "Muhammad Asyraf";
-    $matric = "A123456";
+    $name = "Amirul Irfan Bin Mohd Kamal Arifpin";
+    $matric = "Di230028";
     $course = "Bachelor of Information Technology";
     $year = "Year 2";
     $address = "Parit Raja, Johor";
